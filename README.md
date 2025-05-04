@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://placeholder.svg?height=150&width=450&text=Yunus+Inspire" alt="Yunus Inspire Logo" width="450"/>
+    <img src="logo.png?height=50&width=150&text=Yunus+Inspire" alt="Yunus Inspire Logo" width="150"/>
   <h1>Yunus Inspire</h1>
   <p>Empowering Bangladeshi students with free access to quality educational resources</p>
   
