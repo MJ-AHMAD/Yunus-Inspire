@@ -137,7 +137,7 @@ This project is optimized for deployment on Vercel. To deploy your own instance:
 4. Configure environment variables if needed
 5. Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMJ-AHMAD%2Fyunus.git)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMJ-AHMAD%2Fyunus-inspire.git)
 
 ## 🤝 Contributing
 
@@ -170,9 +170,9 @@ If you find Yunus Inspire valuable, please consider supporting the project throu
 ## 📬 Contact
 
 - GitHub: [@MJ-AHMAD](https://github.com/MJ-AHMAD)
-- Email: support@yunusinspire.org
-- Website: [yunusinspire.org](https://yunusinspire.org)
-- Project Repository: [https://github.com/MJ-AHMAD/yunus](https://github.com/MJ-AHMAD/yunus)
+- Email: mjahmad2024@outlook.com
+- Website: [yunusinspire.org](https://yunus-inspire.vercel.app)
+- Project Repository: [https://github.com/MJ-AHMAD/yunus-inspire](https://github.com/MJ-AHMAD/yunus-inspire)
 
 <div align="center">
   <sub>Built with ❤️ for a better Bangladesh</sub>
