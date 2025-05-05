@@ -44,30 +44,30 @@ Visit our platform at [https://yunus-inspire.vercel.app](https://yunus-inspire.v
 ## 🔧 Installation
 
 1. Clone the repository:
-   \`\`\`bash
+   ```
    git clone https://github.com/MJ-AHMAD/yunus.git
    cd yunus
-   \`\`\`
+   ```
 
 2. Install dependencies:
-   \`\`\`bash
+   ```
    npm install
    # or
    yarn install
-   \`\`\`
+   ```
 
 3. Run the development server:
-   \`\`\`bash
+   ```
    npm run dev
    # or
    yarn dev
-   \`\`\`
+   ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 yunus-inspire/
 ├── .github/                # GitHub specific files (workflows, templates)
 ├── app/                    # Next.js App Router pages
@@ -101,21 +101,21 @@ yunus-inspire/
 ├── postcss.config.js       # PostCSS configuration
 ├── tailwind.config.ts      # Tailwind CSS configuration
 └── tsconfig.json           # TypeScript configuration
-\`\`\`
+```
 
 ## 🧪 Testing
 
 Run tests with:
 
-\`\`\`bash
+```
 npm test
 # or
 yarn test
-\`\`\`
+```
 
 ## 🔍 Linting and Formatting
 
-\`\`\`bash
+```
 # Lint code
 npm run lint
 # or
@@ -125,7 +125,7 @@ yarn lint
 npm run format
 # or
 yarn format
-\`\`\`
+```
 
 ## 🚢 Deployment
 
